@@ -1,2 +1,2 @@
 # Imitating-Online-Python-Tutorial
-A project I did to further my learning on coding
+A project I imitated on Youtube just to further my learning on coding
